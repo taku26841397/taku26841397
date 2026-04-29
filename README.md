@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Takusari
 
-<!--
-**taku26841397/taku26841397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webエンジニアを目指して学習中です。  
+フロントエンドからバックエンドまで幅広く取り組んでいます。
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML / CSS / JavaScript
+- Python / Django
+- Git / GitHub
+- SQL（基礎）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Portfolio
+https://taku-archive.dev/
+
+## 🚀 Featured Projects
+### 🟩 Django 問い合わせフォームアプリ
+- Django / Python  
+- バリデーション、フォーム処理、メール送信（準備中）を実装  
+- MVC（MTV）理解を深めるために構築
+
+### 🟦 旅館サイト（HTML/CSS/JavaScript）
+- 視認性の高いUIを意識
+- UI/UX を意識した静的サイト制作
+
+### 🟨 カフェサイト
+- HTML/CSS/JavaScript  
+- レスポンシブデザインに対応
+
+## 📫 Contact
+ポートフォリオの問い合わせフォームからご連絡ください。
